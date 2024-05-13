@@ -1,0 +1,23 @@
+{
+  "name": "qa_auto_3.2.2",
+  "version": "1.0.0",
+  "description": "Tracks student scores and recognizes top performers with congratulatory messages.",
+  "main": "topScorer.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinkai-tester/qa_auto_3.2.2.git"
+  },
+  "author": "Aleksandra Klimantova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinkai-tester/qa_auto_3.2.2/issues"
+  },
+  "homepage": "https://github.com/shinkai-tester/qa_auto_3.2.2#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
